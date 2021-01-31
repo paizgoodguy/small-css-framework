@@ -1,0 +1,63 @@
+.btn {
+    background-color: #fff;
+    border: 1px solid #eee;
+    padding: 12px 20px;
+    border-radius: 4px;
+}
+
+.btn.primary {
+background-color: blue;
+color: white;
+border-color: blue;
+}
+
+.primary:hover {
+    background-color: white;
+    color: blue;
+}
+
+.btn.danger {
+background-color: red;
+color: white;
+border-color: red;
+}
+
+.danger:hover {
+    background-color: white;
+    color: red;
+}
+
+.btn.success {
+    background-color: seagreen;
+    border-color: seagreen;
+    color: white;
+}
+
+.success:hover {
+    background-color: white;
+    color: seagreen;
+}
+
+.btn.info {
+    background-color: turquoise;
+    color: black;
+    border-color: turquoise;
+}
+
+.info:hover {
+    background-color: white;
+    color: turquoise;
+}
+
+.btn.warning {
+    background-color: yellowgreen;
+    color: black;
+    border-color: yellowgreen;
+}
+
+.warning:hover {
+    background-color: white;
+    color: yellowgreen;
+}
+
+
